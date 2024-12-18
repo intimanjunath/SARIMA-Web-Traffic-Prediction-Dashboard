@@ -46,10 +46,12 @@ The model's performance on test data:
 ## 🖥️ **Screenshots**
 
 ### **1. SARIMA Predictions vs Actual Traffic**  
-![SARIMA Predictions](./images/sarima_predictions.png)
+![SARIMA Predictions](<img width="1386" alt="Screenshot 2024-12-17 at 7 15 27 PM" src="https://github.com/user-attachments/assets/5173bc56-dcbe-454a-b539-ea69e0e7b48d" />
+)
 
 ### **2. SARIMA Model Metrics**  
-![SARIMA Metrics](./images/sarima_metrics.png)
+![SARIMA Metrics](<img width="1212" alt="Screenshot 2024-12-17 at 7 16 23 PM" src="https://github.com/user-attachments/assets/6420ea53-7ba2-4fea-94fa-5cea3edeba84" />
+)
 
 ---
 
